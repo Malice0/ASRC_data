@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T18:50:28.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UZ-1rRjZm8NYBfsrHJvy" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T21:15:01.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="MkshNGkyJvhGaSBtUqoh" version="24.2.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3047" dy="1491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1314" dy="1127" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,10 +314,10 @@
         <mxCell id="n64pa42W2m_aeoByvV1Y-2386" value="Salle 201&lt;div&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(128, 128, 128); font-family: Rubik, sans-serif; font-size: 16px; text-align: left;&quot;&gt;&amp;nbsp;IT&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="2008" y="890" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n64pa42W2m_aeoByvV1Y-2387" value="Salle 201&lt;div&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(128, 128, 128); font-family: Rubik, sans-serif; font-size: 16px; text-align: left;&quot;&gt;R&amp;amp;D&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="n64pa42W2m_aeoByvV1Y-2387" value="Salle 102&lt;div&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(128, 128, 128); font-family: Rubik, sans-serif; font-size: 16px; text-align: left;&quot;&gt;R&amp;amp;D&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1380" y="836" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n64pa42W2m_aeoByvV1Y-2388" value="Salle 201&lt;div&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(128, 128, 128); font-family: Rubik, sans-serif; font-size: 16px; text-align: left;&quot;&gt;commercial&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="n64pa42W2m_aeoByvV1Y-2388" value="Salle 101&lt;div&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(128, 128, 128); font-family: Rubik, sans-serif; font-size: 16px; text-align: left;&quot;&gt;commercial&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1380" y="435" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n64pa42W2m_aeoByvV1Y-2390" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
